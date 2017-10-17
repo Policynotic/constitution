@@ -1,0 +1,182 @@
+Preamble.
+Government is instituted and ought to be exercised for the benefit of the people; which consists in the enjoyment of life and liberty, with the right of acquiring and using property, and generally of pursuing and obtaining happiness and safety.
+We the People of the United States, in order to form a more perfect union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, secure the Blessings of Liberty to ourselves and our Posterity,  prevent corruption and tyranny, insure transparency, and harness the power of our collective minds, do ordain and establish this Constitution for the United States of America. 
+
+Article 1- Legislation.
+
+Section 1- Legislative Powers.
+All legislative powers herein granted shall be vested in the people of the United States, whom shall draft and vote on any and all federal legislation and federal government policy.
+
+Section 2- Law and Policy Network.
+All government legislation shall be publicly posted to the Law and Policy Network for universal collaboration prior to enactment or amendment. The Law and Policy Network shall be a git repository for tracking changes to laws or policies and coordinating work on legislation among multiple parties. The Law and Policy Network will show all branches and versions of all federal laws and policies but clearly indicate which are currently enacted.
+
+Section 3- Eligibility of Laws for Voting.
+All versions and branches of legislation existing on the Law and Policy Network on July 1 at 12:00:00 ante meridiem Eastern time shall be eligible for endorsement along with the options to remove in entirety laws enacted previously. Legislative changes on the Law and Policy Network receiving 1,000 or more endorsements shall appear on the Primary ballot in descending order of number of endorsements. No other options will be eligible for voting. 
+The ten legislative options receiving the most votes in the Primary shall appear on the ballot in the Election. Primary-selected options will be grouped on the Election ballot with all other Primary-selected competing branches and with the existing legislation if it exists or an option to not add the legislation if a version of the law does not currently exist. 
+
+Article 2- Executive Departments.
+
+Section 1- Executive Powers.
+The nine federal executive departments shall perform functions to fulfill their missions in accordance with their policies. Each president exercises authority, direction, and control over their department(s) as promulgated in the Department Policies posted on the Law and Policy Network. No president or department shall deviate from promulgated laws and policies voted on by the people except when circumstances necessitate the assumption of Temporary Emergency Powers.
+In emergency circumstances posing imminent danger to the United States people, territory, or assets for which there is no adequate procedure promulgated in legislation or department policies, the President of Defense and Emergency may assume Temporary Emergency Powers to address the imminent danger. Temporary Emergency Powers shall allow deviation from promulgated laws and policies under the direction of the President of Defense and Emergency only as necessary to restore public safety and the territorial integrity of the United States. To assume Temporary Emergency Powers, the President of Defense and Emergency shall issue a statement stating what conditions necessitate Temporary Emergency Powers and what specific additional powers the President of Defense and Emergency will be assuming. This statement shall be published to the Law and Policy Network within 24 hours of Temporary Emergency Powers being assumed and may be updated as conditions change. Temporary Emergency Powers end when either public safety and territorial integrity are restored or 2 months have passed since the assumption of Temporary Emergency Powers. If Temporary Emergency Powers are required for over 2 months time, the President of Defense and Emergency can issue a Temporary Power Expansion Policy to be voted on in an emergency referendum and instituted when approved by a majority of voters. All Temporary Power Expansion Policies shall include a clause revoking the policy within 6 months or less. If Temporary Emergency Powers are required beyond the stated revocation time, another Temporary Power Expansion Policy may be authorized by majority vote of the people. Under no circumstances are Primaries or Elections to be delayed by more than two weeks. Temporary Emergency Powers may not include powers over or changes to the Department of Democracy, which will oversee emergency referendums for Temporary Power Expansion Policies.
+
+Section 2- Department Policies.
+Each federal executive department shall publicly post all policies to the Law and Policy Network for universal collaboration prior to enactment or amendment. 
+
+Section 3- Department of Defense.
+The Department of Defense shall be overseen by the President of Defense and Emergency. The Secretary of Defense is the principal defense policy advisor to the President of Defense and Emergency. The Secretary of Defense exercises authority, direction, and control over the Department of Defense as promulgated in the Department of Defense Policies posted on the Law and Policy Network. 
+The mission of the Department of Defense is to provide the military forces needed to deter war and to protect the security of our country. 
+
+Section 4- Department of Emergency. 
+The Department of Emergency shall be overseen by the President of Defense and Emergency. The Secretary of Emergency is the principal defense policy advisor to the President of Defense and Emergency. The Secretary of Emergency exercises authority, direction, and control over the Department of Emergency as promulgated in the Department of Emergency Policies posted on the Law and Policy Network. 
+The mission of the Department of Emergency is to build, sustain and improve the nation’s capability to prepare for, protect against, respond to, recover from and mitigate all hazards. 
+
+Section 5- Department of Commerce.
+The Department of Commerce shall be overseen by the President of Commerce. The mission of the Department of Commerce is to promote improved living standards for all Americans by creating an infrastructure that promotes economic growth, technological competitiveness, and sustainable development.
+
+Section 6- Department of Transportation.
+The Department of Transportation shall be overseen by the President of Transportation. The mission of the Department of Transportation is to ensure a fast, safe, efficient, accessible, and convenient transportation system that meets vital national interests and enhances the quality of life of the American people, today and into the future.
+
+Section 7- Department of Justice. 
+The Department of Justice shall be overseen by the President of Justice. 
+The mission of the Department of Justice is to enforce the democratically promulgated laws as stated in the Law and Policy Network, defend constitutional rights of the people, and administer the corrective system. 
+
+Section 8- Department of Democracy. 
+The Department of Democracy shall be overseen by the President of Democracy. 
+The mission of the Department of Democracy is to ensure the operation of democratic systems including the Law and Policy Network, Voting Network, Primaries, and Elections in accordance with the Constitution.
+
+Section 9- Department of Environment, Health, and Safety Commons.
+The Department of Environment, Health, and Safety Commons shall be overseen by the President of Commons. 
+The mission of the Department of Environment, Health, and Safety Commons is to protect human health and the environment. The Department of Environment, Health, and Safety Commons shall ensure the quality of common resources does not impede citizens’ rights to life, liberty and pursuit of happiness. Common resources include air, water, soil, food, and population disease immunity and preparedness.
+
+Section 10- Presidential terms.
+No person shall be elected to the office of the President more than thrice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of President more than twice. 
+The four year terms of the President and the Vice President shall end at noon on the 20th day of January and the terms of their successors shall then begin.
+
+Section 11- Presidential  Succession.
+In case of the removal of the President from office or of his or her death or resignation, the Vice President shall become President.
+Whenever there is a vacancy in the office of the Vice President, the President shall nominate a Vice President who shall take office upon confirmation by direct popular vote by all interested American citizens. 
+If, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified.
+
+Section 12- Candidate Eligibility for Voting
+Each citizen in the U.S. of voting age is automatically delegated 10 vote coins to distribute to suggested new laws, changes in existing laws, or law deletions as they see fit. The top 10 then get voted on. Voters will always have the option of ballot-eligibility winning suggested changes to a given law and the no-changes option (e.g. do not legislate or current wording of law)
+
+Article 3- Monetary Blockchain & Taxation.
+
+Section 1- The Blockchain.
+The Blockchain is a bitcoin-derived cryptocurrency selected by the federal government for taxation, transaction, and basic income disbursement. The Blockchain is chosen or created to have the following properties: open-source, trustless, borderless, distributed, neutral, secure, universally accessible, and censorship-resistant. The Federal Government shall only make and accept payments in the cryptocurrency chosen for the Blockchain.
+
+Section 2- Wallet Registration.
+Each citizen of the United States of America or required entity shall register a wallet on the Blockchain with Federal, State, and Local Governments per the requirements in this section. Required entities include foreign businesses doing business in the U.S., foreign governments or international programs receiving U.S. Government aid.  These wallets may be: (1) publicly known, (2) privately registered (with only the owner and U.S. Government knowledge of said wallet identity), or (3) privately held. (A) Publicly known wallets are linked to a commonly known name for the entity and basic information about the entity. Publicly known wallets are recorded on the Blockchain with both their public key and common name. Publicly known wallets or blockchain include:Property addresses (Blockchain wallets showing property ownership) including buildings, facilities, land, major pieces of equipment, and other items of public interest for all businesses, nonprofit organizations, required entities, and Federal, State, and Local Governments. Major category wallets for (1) Federal, State, and Local government agencies and programs, (2) publicly traded businesses, (3) privately traded/owned businesses facing disciplinary action for breaking laws, or dealing in matters with significant public interest, (4) programs receiving public funds.(B) Privately registered wallets are known to only the owner and the Federal, State and Local Governments. Privately registered wallets are recorded on the Blockchain Ledger with their public key. Privately registered wallets include:Property addresses (Blockchain wallets showing property ownership) including buildings, facilities, land, major pieces of equipment, and other items of Government interest for all citizens and privately traded/owned businesses not listed in Part I.1A.One wallet for each citizen for tax-paying purposes. This wallet may be changed with permission from the wallet holder if the wallet has been identified by unauthorized parties. (C) Privately held wallets are known to only the owner. Privately held wallets include all wallets not required to be publicly known or privately registered per Parts I.1A and I.1B.
+
+Article 4- Judicial System.
+Text forthcoming.
+
+Article 5- Voting.
+
+Section 1- Voting Network.
+Voting will take place using the Voting Network, a bitcoin-derived blockchain system which shall be open-source, trustless, borderless, distributed, neutral, secure, accessible, and censorship-resistant. Each individual is assigned a voting wallet with designated vote coins in it to vote on all Local, State, Federal officials, taxation, and litigation for which that person is eligible. All vote coins must go through an anonymizer when voting using the Voting Network. Voting shall be done privately and voting selections shall be anonymous. One blockchain address for voting purposes shall be designated the “voting address.” The voting address of a citizen may be changed with permission from that citizen if the voting address has been identified by unauthorized parties.
+
+Section 2- Endorsements, Primaries, and Elections
+Voting for candidates and legislation shall occur in three rounds: endorsements, primaries, and elections. Endorsements are public declarations of support for legislation or candidates using endorsement vote coins. Endorsements determine the eligibility of a candidate or legislative option for the Primaries and ballot order. Endorsements may occur at any time between July 20 at 12:00:00 ante meridiem Eastern time and August 19 at 11:59:59 post meridiem Eastern time. Each citizen may make up to one endorsement for each executive office or piece of legislation up for vote. 
+
+Section 3- Voting Schedule
+Text Forthcoming.
+
+Section 3- Voting Booths.
+Any computer station with safety, privacy, and  internet connection can become a registered voting booth.
+
+Section 4- Voting Oversight.
+The Department of Democracy ensures that voting is fair, anonymous, safe, and accessible to all age-eligible American Citizens.
+
+Section 5- Vote Templates.
+Default filled votes (for voter review before submitting) that align with the Vote Template of your choice. Text forthcoming.
+
+Article 6. Rights of Citizens
+
+Section 1- Freedom of Religion, Speech, Press, Assembly, and Petition. 
+No law shall be made prohibiting the free exercise of religion; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the government for a redress of grievances. 
+Section 2- No Government Endorsement of Religion. No law shall be made respecting an establishment of religion; or endorsing a religion; or requiring any religious or theological beliefs. The Presidents, the members of the State Governments, and all executive and judicial officers, both of the United States and of the States, shall be bound by oath or affirmation, to support this Constitution; but no religious test shall ever be required as a qualification to any office or public trust under the United States.
+
+Section 3- Right to Bear Arms.
+Text forthcoming. A vote will take place after constitutional ratification on what this should (and shouldn’t) include since gun control is such a devisive issue. Gun control/rights debate should not hold up the ratification of this constitution, but rather be debated and mitigated within its collaborative framework.
+
+Section 4- Quartering of Soldiers.
+No soldier shall in time of peace be quartered in any house, without the consent of the owner, nor in time of war, but in a manner to be prescribed by law. 
+
+Section 5- Search and Seizure.
+The right of the people to be secure in their persons, houses, papers, correspondences, digital messages, and effects, against unreasonable searches and seizures, shall not be violated, and no warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
+
+Section 6- Grand Jury, Double Jeopardy, Self-Incrimination, Due Process, Takings.
+No person shall be held to answer for a capital, or otherwise infamous crime, unless on a presentment or indictment of a grand jury, nor shall any person be subject for the same offense to be twice put in jeopardy of life or limb; nor shall be compelled in any criminal case to be a witness against himself, nor be deprived of life, liberty, or property, without due process of law; nor shall private property be taken for public use, without just compensation. 
+
+Section 7- Speedy Trial by Jury, Witnesses, Counsel.
+In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury of the state and district wherein the crime shall have been committed, which district shall have been previously ascertained by law, and to be informed of the nature and cause of the accusation; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the assistance of counsel for his defense. 
+
+Section 8- Jury Trial in Civil Lawsuits.
+In suits at common law, where the value in controversy is sufficiently great, the right of trial by jury shall be preserved, and no fact tried by a jury, shall be otherwise reexamined in any court of the United States, than according to the rules of the common law. 
+
+Section 9- Excessive Fines, Cruel and Unusual Punishment.
+Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.  Bail, fines, and punishments shall be designated with consideration of severity of crime and the accused or convicted person’s financial circumstance.
+
+Section 10- Non-enumerated Rights.
+The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.
+
+Section 11- Non-delegated Powers.
+The powers not delegated to the United States by the Constitution, nor prohibited by it to the states, are reserved to the states respectively, or to the people. 
+
+Section 12- Slavery Prohibition.
+Neither slavery nor involuntary servitude shall exist within the United States, or any place subject to their jurisdiction.
+
+Section 13- Voting Rights.
+The right of citizens of voting age of the United States to vote shall not be denied or abridged. The right of citizens of the United States to form, promote, and distribute a Vote Template or  will not be denied or abridged.
+
+Section 14- Habeas Corpus
+The privilege of the Writ of Habeas Corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it.
+ 
+Section 15- Currency Choice. 
+Individuals have the right to exchange currencies.
+ 
+Section 16- Supremacy of Constitutional Rights.
+The citizens of each State shall be entitled to all privileges and immunities granted by the Constitution. 
+State or Local  laws, policies, or actions that infringe on any Constitutional rights shall not be allowed and shall be overturned by the federal government or state government. 
+Federal laws that infringe on any Constitutional rights shall be illegal and shall be overturned by the Federal Judicial System.
+Actions by any individual or organization that violate the Constitutional rights shall be illegal.
+
+Section 17- Freedom of Thought, Formulation, Promotion.
+No law shall be made penalizing or rewarding a citizen or group of citizens for thinking, formulating or promoting a political idea,  theological concept, economic model, world view, scientific viewpoint, or other personal belief. 
+
+Article 7- States and Citizenship.
+
+Section 1- State Cohesion.
+Full faith and credit shall be given in each State to the public acts, records, and judicial proceedings of every other State. The people may legislate the manner in which such acts, records and proceedings shall be proved, and the effect thereof.
+A person charged in any State with treason, Felony, or other crime, who shall flee from justice, and be found in another State, shall on demand of the State from which the person fled, be delivered up, to be removed to the State having jurisdiction of the crime.
+No tax or duty shall be laid on articles exported from any State.
+No preference shall be given by any regulation of commerce or revenue to the ports of one State over those of another; nor shall vessels, products, or services bound to, or from, one State, be obliged to enter, clear, or pay duties in another.
+
+Section 2- New States.
+New States may be admitted into this Union or formed from the territory of existing States with the consent of 70% of voting citizens in each State concerned as well as 70% of all voting citizens of the United States.
+
+Section 3- Responsibility to States.
+The United States shall guarantee to every State in this union a republican form of government, and shall protect each of them against invasion; and when determined by vote, against domestic violence.
+
+Section 4- Nobility Prohibition.
+No title of nobility shall be granted by the United States. No person holding any office of profit or trust under them, shall, without the majority vote, accept of any present, emolument, campaign donations, office, or title, of any kind whatever, from any king, prince, or foreign State.
+
+Section 5- Citizenship.
+All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+
+Article 7. Amendments
+Text forthcoming.
+
+Article 8. Ratification
+Text forthcoming.
+
+
+
+
+
+
+
+
+
