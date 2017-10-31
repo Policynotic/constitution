@@ -96,7 +96,9 @@ Article 6. Rights of Citizens
 
 Section 1- Freedom of Religion, Speech, Press, Assembly, and Petition. 
 No law shall be made prohibiting the free exercise of religion; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the government for a redress of grievances. 
-Section 2- No Government Endorsement of Religion. No law shall be made respecting an establishment of religion; or endorsing a religion; or requiring any religious or theological beliefs. The Presidents, the members of the State Governments, and all executive and judicial officers, both of the United States and of the States, shall be bound by oath or affirmation, to support this Constitution; but no religious test shall ever be required as a qualification to any office or public trust under the United States.
+
+Section 2- No Government Endorsement of Religion. 
+No law shall be made respecting an establishment of religion; or endorsing a religion; or requiring any religious or theological beliefs. The Presidents, the members of the State Governments, and all executive and judicial officers, both of the United States and of the States, shall be bound by oath or affirmation, to support this Constitution; but no religious test shall ever be required as a qualification to any office or public trust under the United States.
 
 Section 3- Right to Bear Arms.
 Text forthcoming. A vote will take place after constitutional ratification on what this should (and shouldn’t) include since gun control is such a devisive issue. Gun control/rights debate should not hold up the ratification of this constitution, but rather be debated and mitigated within its collaborative framework.
@@ -134,8 +136,8 @@ The right of citizens of voting age of the United States to vote shall not be de
 Section 14- Habeas Corpus
 The privilege of the Writ of Habeas Corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it.
  
-Section 15- Currency Choice. 
-Individuals have the right to exchange currencies.
+Section 15- Freedom of Exchange and Currency
+The right of the people to own, hold, and use a mutually agreed upon medium of exchange, including cash, coin, bullion, digital currency, or scrip, when trading and contracting for goods and services shall not be infringed. No government shall prohibit or encumber the ownership or holding of any form or amount of money or other currency.
  
 Section 16- Supremacy of Constitutional Rights.
 The citizens of each State shall be entitled to all privileges and immunities granted by the Constitution. 
