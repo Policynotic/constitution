@@ -12,7 +12,7 @@ All government legislation shall be publicly posted to the Law and Policy Networ
 
 Section 3- Eligibility of Laws for Voting.
 All versions and branches of legislation existing on the Law and Policy Network on July 1 at 12:00:00 ante meridiem Eastern time shall be eligible for endorsement along with the options to remove in entirety laws enacted previously. Legislative changes on the Law and Policy Network receiving 1,000 or more endorsements shall appear on the Primary ballot in descending order of number of endorsements. No other options will be eligible for voting. 
-The ten legislative options receiving the most votes in the Primary shall appear on the ballot in the Election. Primary-selected options will be grouped on the Election ballot with all other Primary-selected competing branches and with the existing legislation if it exists or an option to not add the legislation if a version of the law does not currently exist. 
+The ten legislative options receiving the most votes in the Primary shall appear on the ballot in the Election. Primary-selected options will be grouped on the Election ballot with all other Primary-selected competing branches and with the existing legislation if it exists or an option to not add the legislation if a version of the law does not currently exist. The option with the most votes shall be enacted.
 
 Article 2- Executive Departments.
 
