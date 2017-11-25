@@ -58,9 +58,6 @@ In case of the removal of the President from office or of his or her death or re
 Whenever there is a vacancy in the office of the Vice President, the President shall nominate a Vice President who shall take office upon confirmation by direct popular vote by all interested American citizens. 
 If, at the time fixed for the beginning of the term of the President, the President elect shall have died, the Vice President elect shall become President. If a President shall not have been chosen before the time fixed for the beginning of his term, or if the President elect shall have failed to qualify, then the Vice President elect shall act as President until a President shall have qualified.
 
-Section 12- Candidate Eligibility for Voting
-Each citizen in the U.S. of voting age is automatically delegated 10 vote coins to distribute to suggested new laws, changes in existing laws, or law deletions as they see fit. The top 10 then get voted on. Voters will always have the option of ballot-eligibility winning suggested changes to a given law and the no-changes option (e.g. do not legislate or current wording of law)
-
 Article 3- Monetary Blockchain & Taxation.
 
 Section 1- The Blockchain.
@@ -78,19 +75,37 @@ Section 1- Voting Network.
 Voting will take place using the Voting Network, a bitcoin-derived blockchain system which shall be open-source, trustless, borderless, distributed, neutral, secure, accessible, and censorship-resistant. Each individual is assigned a voting wallet with designated vote coins in it to vote on all Local, State, Federal officials, taxation, and litigation for which that person is eligible. All vote coins must go through an anonymizer when voting using the Voting Network. Voting shall be done privately and voting selections shall be anonymous. One blockchain address for voting purposes shall be designated the “voting address.” The voting address of a citizen may be changed with permission from that citizen if the voting address has been identified by unauthorized parties.
 
 Section 2- Endorsements, Primaries, and Elections
-Voting for candidates and legislation shall occur in three rounds: endorsements, primaries, and elections. Endorsements are public declarations of support for legislation or candidates using endorsement vote coins. Endorsements determine the eligibility of a candidate or legislative option for the Primaries and ballot order. Endorsements may occur at any time between July 20 at 12:00:00 ante meridiem Eastern time and August 19 at 11:59:59 post meridiem Eastern time. Each citizen may make up to one endorsement for each executive office or piece of legislation up for vote. 
-
-Section 3- Voting Schedule
-Text Forthcoming.
+Endorsements are public declarations of support for legislation or candidates using endorsement vote coins. Endorsements determine the eligibility of a candidate or legislative option for the Primaries and ballot order. Each citizen may make up to one endorsement for each government office or legislation up for vote. All versions and branches of legislation existing on the Law and Policy Network on July 1 at 12:00:00 ante meridiem Eastern time shall be eligible for endorsement along with the options to remove in entirety laws enacted previously. Candidates must declare their candidacy by July 1 at 12:00:00 ante meridiem Eastern time to be eligible for endorsement. Legislative changes and candidates receiving 1,000 or more endorsements shall appear on the Primary ballot in descending order of number of endorsements.
+During the Primaries, each citizen in the U.S. of voting age is automatically delegated 10 vote coins to distribute to legislative proposals or candidates as they see fit. The ten legislative options receiving the most vote coins in the Primary shall appear on the ballot in the Election. Primary-selected legislative options will be grouped on the Election ballot with all other Primary-selected competing branches and with the existing legislation if it exists or an option to not add the legislation if a version of the law does not currently exist. The legislative option with the most votes shall be enacted so long as it has received at least 40% of the vote, otherwise the existing legislative option remains in effect.
+For each government office up for election, the two candidates receiving the most Primary votes will appear on the Election ballot. The candidate receiving the most Election votes shall assume office.
 
 Section 3- Voting Booths.
-Any computer station with safety, privacy, and  internet connection can become a registered voting booth.
+Any computer station with safety, privacy, and internet connection can become a registered voting booth. Voting Booths must be open for use by all at no cost.
 
 Section 4- Voting Oversight.
-The Department of Democracy ensures that voting is fair, anonymous, safe, and accessible to all age-eligible American Citizens.
+The Department of Democracy ensures that voting is fair, anonymous, safe, and accessible to all age-eligible American Citizens. The Department of Democracy ensures that knowledge-based requirements for legislative voting are non-discriminatory, reasonable, and in compliance with the Informed Legislation Act.
 
 Section 5- Vote Templates.
 Default filled votes (for voter review before submitting) that align with the Vote Template of your choice. Text forthcoming.
+
+Section 6- Government Rotation and Voting Schedule
+Voting for the U.S. Federal Government shall take place every two years according to the 4 year Government Rotation described in this section. The Government Rotation will begin on Year 1, January 1 at 12:00 ante meridiem (a.m.) Eastern time (ET) and end on Year 4, December 31 at 11:59:59.9-repeating post meridiem (p.m.) ET. 
+Year 1, January 20 at 12:00 p.m. ET: New Presidents assume authority.
+Year 2, July 20 at 12:00 a.m. ET: Begin Endorsement Period for flat tax rate, Minimum Budget, and legislative options in the Law and Policy Network.
+Year 2, August 19 at 11:59:59.9-repeating p.m. ET: End Endorsement Period.
+Year 2, September 1 at 12:00 a.m. ET: Begin Primaries for flat tax rate, Minimum Budget, and legislative options in the Law and Policy Network.
+Year 2, September 7 at 11:59:59.9-repeating p.m. ET: End Primaries.
+Year 2, November 1 at 12:00 a.m. ET: Begin Election for flat tax rate, Federal Tax Code, Minimum Budget, legislative options in the Law and Policy Network.
+Year 2, November 7 at 11:59:59.9-repeating p.m. ET: End Elections.
+Year 4, July 20 at 12:00 a.m. ET: Begin Endorsement Period for Presidents.
+Year 4, August 19 at 11:59:59.9-repeating p.m. ET: End Endorsement Period.
+Year 4, September 1 at 12:00 a.m. ET: Begin Primaries for Presidents.
+Year 4, September 7 at 11:59:59.9-repeating p.m. ET: End Primaries.
+Year 4, November 1 at 12:00 a.m. ET: Begin Election for Presidents.
+Year 4, November 7 at 11:59:59.9-repeating p.m. ET: End Elections.
+
+Section 7- Voter Eligibility.
+Any United States citizen may vote in an Election on any law or policy after demonstrating requisite expertise by passing a short subject matter exam. Materials covering all questions on the exam shall be freely provided in various languages and in formats to ease citizen learning. Exams shall cover only information that is factual, well established, and nearly undisputed. Knowledge-based voting requirements will be promulgated in the Informed Legislation Act. All citizens may cast one vote in the election of Presidents / Vice Presidents for all executive departments, the flat tax rate, the Informed Legislation Act, and Constitutional ratification and amendments. 
 
 Article 6. Rights of Citizens
 
@@ -131,22 +146,25 @@ Section 12- Slavery Prohibition.
 Neither slavery nor involuntary servitude shall exist within the United States, or any place subject to their jurisdiction.
 
 Section 13- Voting Rights.
-The right of citizens of voting age of the United States to vote shall not be denied or abridged. The right of citizens of the United States to form, promote, and distribute a Vote Template or  will not be denied or abridged.
+The right of citizens of voting age of the United States to vote shall not be denied or abridged. Requirements for voting on legislation may only be based on knowledge of relevant provided materials. Any person who demonstrates requisite knowledge before the end of the Election Period may vote on a given piece of legislation. No knowledge-based or other requirements shall limit a citizen’s right to vote on the executive department Presidents and Vice Presidents, the flat tax rate, the Informed Legislation Act, or Constitutional ratification or amendment.
 
 Section 14- Habeas Corpus
 The privilege of the Writ of Habeas Corpus shall not be suspended, unless when in cases of rebellion or invasion the public safety may require it.
  
 Section 15- Freedom of Exchange and Currency
 The right of the people to own, hold, and use a mutually agreed upon medium of exchange, including cash, coin, bullion, digital currency, or scrip, when trading and contracting for goods and services shall not be infringed. No government shall prohibit or encumber the ownership or holding of any form or amount of money or other currency.
- 
-Section 16- Supremacy of Constitutional Rights.
-The citizens of each State shall be entitled to all privileges and immunities granted by the Constitution. 
-State or Local  laws, policies, or actions that infringe on any Constitutional rights shall not be allowed and shall be overturned by the federal government or state government. 
-Federal laws that infringe on any Constitutional rights shall be illegal and shall be overturned by the Federal Judicial System.
-Actions by any individual or organization that violate the Constitutional rights shall be illegal.
 
-Section 17- Freedom of Thought, Formulation, Promotion.
-No law shall be made penalizing or rewarding a citizen or group of citizens for thinking, formulating or promoting a political idea,  theological concept, economic model, world view, scientific viewpoint, or other personal belief. 
+Section 16- Rights of the Taxed
+Citizens have the right to a simple citizen tax code that can be reasonably understood and executed by an individual. Citizens have the right to choose where a minimum of 50% of their personal tax dollars go. A Citizen will have the following choices for where to allocate their tax contribution at a minimum: 1) basic income, 2) Judicial System, 3) Department of Defense, 4) Department of Emergency, 5) Department of Commerce, 6) Department of Transportation, 7) Department of Justice, 8) Department of Democracy, 9) Department of Environment, Health, and Safety Commons.
+ 
+Section 17- Freedom of Thought, Formulation, Promotion, and Politics.
+No law shall be made penalizing or rewarding a citizen or group of citizens for thinking, formulating or promoting a political idea,  theological concept, economic model, world view, scientific viewpoint, or other personal belief.
+ 
+Section 18- Right of Government Participation
+The right of citizens of the United States to form, promote, and distribute a Vote Template or  will not be denied or abridged. The right of citizens to access and contribute to the Law and Policy Network will not be denied or abridged. The right of a citizen meeting knowledge-based and minimum age requirements to run for office will not be denied or abridged.
+
+Section 19- Supremacy of Constitutional Rights.
+The citizens of each State shall be entitled to all privileges and immunities granted by the Constitution. State or Local  laws, policies, or actions that infringe on any Constitutional rights shall not be allowed and shall be overturned by the federal government or state government.. Federal laws that infringe on any Constitutional rights shall be illegal and shall be overturned by the Federal Judicial System.
 
 Article 7- States and Citizenship.
 
