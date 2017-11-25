@@ -76,7 +76,8 @@ Voting will take place using the Voting Network, a bitcoin-derived blockchain sy
 
 Section 2- Endorsements, Primaries, and Elections
 Endorsements are public declarations of support for legislation or candidates using endorsement vote coins. Endorsements determine the eligibility of a candidate or legislative option for the Primaries and ballot order. Each citizen may make up to one endorsement for each government office or legislation up for vote. All versions and branches of legislation existing on the Law and Policy Network on July 1 at 12:00:00 ante meridiem Eastern time shall be eligible for endorsement along with the options to remove in entirety laws enacted previously. Candidates must declare their candidacy by July 1 at 12:00:00 ante meridiem Eastern time to be eligible for endorsement. Legislative changes and candidates receiving 1,000 or more endorsements shall appear on the Primary ballot in descending order of number of endorsements.
-During the Primaries, each citizen in the U.S. of voting age is automatically delegated 10 vote coins to distribute to legislative proposals or candidates as they see fit. The ten legislative options receiving the most vote coins in the Primary shall appear on the ballot in the Election. Primary-selected legislative options will be grouped on the Election ballot with all other Primary-selected competing branches and with the existing legislation if it exists or an option to not add the legislation if a version of the law does not currently exist. The legislative option with the most votes shall be enacted so long as it has received at least 40% of the vote, otherwise the existing legislative option remains in effect.
+During the Primaries, each citizen in the U.S. of voting age is automatically delegated 10 vote coins to distribute to legislative proposals or candidates. Only one vote coin per voter may be used to vote for a Constitutional Amendment. Up to four vote coins per user may be used to vote for any one piece of legislation. Up to ten vote coins per user may be used to vote for any one candidate. 
+The ten legislative options receiving the most vote coins in the Primary shall appear on the ballot in the Election. Primary-selected legislative options will be grouped on the Election ballot with all other Primary-selected competing branches and with the existing legislation if it exists or an option to not add the legislation if a version of the law does not currently exist. The legislative option with the most votes shall be enacted so long as it has received at least 40% of the vote, otherwise the existing legislative option remains in effect.
 For each government office up for election, the two candidates receiving the most Primary votes will appear on the Election ballot. The candidate receiving the most Election votes shall assume office.
 
 Section 3- Voting Booths.
@@ -191,12 +192,3 @@ Text forthcoming.
 
 Article 8. Ratification
 Text forthcoming.
-
-
-
-
-
-
-
-
-
