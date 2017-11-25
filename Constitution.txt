@@ -1,5 +1,5 @@
 Preamble.
-We the People of the United States, in order to form a more perfect union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, secure the Blessings of Liberty to ourselves and our Posterity,  prevent corruption and tyranny, insure transparency, and harness the power of our collective minds, do ordain and establish this Constitution for the United States of America. 
+We the People of the United States, in order to form a more perfect union, establish Justice, insure domestic Tranquility, provide for the common defense, promote the general Welfare, secure the Blessings of Liberty to ourselves and our Posterity,  prevent corruption, insure transparency, and harness the power of our collective minds, do ordain and establish this Constitution for the United States of America. 
 Government is instituted and ought to be exercised for the benefit of the people; which consists in the enjoyment of life and liberty, with the right of acquiring and using property, and generally of pursuing and obtaining happiness and safety. The people have an indubitable, unalienable, and indefeasible right to reform or change their Government, whenever it be found adverse or inadequate to the purposes of its institution.
 
 Article 1- Legislation.
