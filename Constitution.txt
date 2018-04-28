@@ -81,7 +81,9 @@ Any citizen may qualify as a judge in any subject matter and case type by passin
 Section 3- Jurors
 The pool of jurors shall be all citizens possessing basic mental capabilities and the capacity to communicate when provided with reasonable accomodation. They shall be used in all case types where the policies given in The Law and Policy Network require the judgments of a jury of one's peers or a random selection of citizens. The number of jurors required for any given case shall be proportional to the severity of possible punishment for a guilty verdict.
 
-More details forthcoming.
+Section 4- Judicial Supporters
+Judicial supporters include all people needed to support the trial process. Each trial shall list its needs for judicial support on the public government job board along with the associated pay and requirements. Any citizen who is qualified to perform the needed work may perform it and receive payment.
+
 
 Article 5- Voting.
 
