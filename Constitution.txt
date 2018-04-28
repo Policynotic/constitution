@@ -73,16 +73,19 @@ Each citizen of the United States of America or required entity shall register a
 Article 4- Judicial System.
 
 Section 1- The Judicial Network
-The Judicial Network will consist of all D.R. Net citizens who shall be classified as reviewers, judges, jurors, or judicical supporters for various subject matters and case types. 
+The Judicial Network will consist of all D.R. Net citizens who shall be classified as reviewers, judges, jurors, or judicical supporters for various subject matters and case types. All work needed to keep the 
 
 Section 2- Judges
-Any citizen may qualify as a judge in any subject matter and case type by passing the test and other requirements listed in the Law and Policy Network. The number of judges required for any given case shall be proportional to the severity of possible punishment for a guilty verdict.
+Any citizen may qualify as a judge in any subject matter and case type by passing the test and other requirements listed in the Law and Policy Network. The number of judges required for any given case shall relate to the severity of possible punishment for a guilty verdict.
 
 Section 3- Jurors
 The pool of jurors shall be all citizens possessing basic mental capabilities and the capacity to communicate when provided with reasonable accomodation. They shall be used in all case types where the policies given in The Law and Policy Network require the judgments of a jury of one's peers or a random selection of citizens. The number of jurors required for any given case shall be proportional to the severity of possible punishment for a guilty verdict.
 
 Section 4- Judicial Supporters
-Judicial supporters include all people needed to support the trial process. Each trial shall list its needs for judicial support on the public government job board along with the associated pay and requirements. Any citizen who is qualified to perform the needed work may perform it and receive payment.
+Judicial supporters include all people needed to support the trial process. Each trial shall list its needs for judicial support on the public government job board along with the associated pay and requirements. Any citizen who is qualified to perform the needed work may perform it and receive payment. Judicial supporters shall include people needed in: 1. the review of flagged judges and cases, 2. appropriate anonymization of individuals involved in cases so as to balance privacy and auditability, 3. the development and deployment of fair and effective reputation and testing systems, 4. the preparation of evidence, 5. the education of jurors, and 5. any other judicial activity.
+
+Section 5- Reviewers
+Any person may review a past court case that has been anonymized if or as needed to comply with the law. A reviewer may flag court cases as potentially invalid or illegal and thus needing more review. A reviewer may also flag a particular judge for a pattern of bias or poor judgements.
 
 
 Article 5- Voting.
