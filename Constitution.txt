@@ -39,7 +39,7 @@ The Department of Transportation shall be overseen by the President of Transport
 
 Section 7- Department of Justice. 
 The Department of Justice shall be overseen by the President of Justice. 
-The mission of the Department of Justice is to enforce the democratically promulgated laws as stated in the Law and Policy Network, defend constitutional rights of the people, and administer the corrective system. 
+The mission of the Department of Justice is to enforce the democratically promulgated laws as stated in the Law and Policy Network, defend constitutional rights of the people, and administer the corrective system. The Department of Justice shall ensure the fair execution of policies governing the payment, subject matter and case type classifications, requirements for jurors, judges, and judicial supporters, and all other necessary work for the lawful and impartial interpretation of the law.
 
 Section 8- Department of Democracy. 
 The Department of Democracy shall be overseen by the President of Democracy. 
@@ -48,6 +48,10 @@ The mission of the Department of Democracy is to ensure the operation of democra
 Section 9- Department of Environment, Health, and Safety Commons.
 The Department of Environment, Health, and Safety Commons shall be overseen by the President of Commons. 
 The mission of the Department of Environment, Health, and Safety Commons is to protect human health and the environment. The Department of Environment, Health, and Safety Commons shall ensure the quality of common resources does not impede citizens’ rights to life, liberty and pursuit of happiness. Common resources include air, water, soil, food, and population disease immunity and preparedness.
+
+Department of Solutions
+The Department of Solutions shall be overseen by the President of Solutions.
+The mission of the Department of Solutions is to combine the best science, technology, experts, and thinkers to impartially inform all laws and policies. The Department of Solutions shall work collaboratively and openly on relevant research applying the best available tools including artificial intelligence. All artificial intelligence used by the Department of Solutions shall be developed in a manner that aligns with the Ethical Responsibilities in Science and Artificial Intelligence Law. 
 
 Section 10- Presidential terms.
 No person shall be elected to the office of the President more than thrice, and no person who has held the office of President, or acted as President, for more than two years of a term to which some other person was elected President shall be elected to the office of President more than twice. 
@@ -67,7 +71,17 @@ Section 2- Wallet Registration.
 Each citizen of the United States of America or required entity shall register a wallet on the Blockchain with Federal, State, and Local Governments per the requirements in this section. Required entities include foreign businesses doing business in the U.S., foreign governments or international programs receiving U.S. Government aid.  These wallets may be: (1) publicly known, (2) privately registered (with only the owner and U.S. Government knowledge of said wallet identity), or (3) privately held. (A) Publicly known wallets are linked to a commonly known name for the entity and basic information about the entity. Publicly known wallets are recorded on the Blockchain with both their public key and common name. Publicly known wallets or blockchain include:Property addresses (Blockchain wallets showing property ownership) including buildings, facilities, land, major pieces of equipment, and other items of public interest for all businesses, nonprofit organizations, required entities, and Federal, State, and Local Governments. Major category wallets for (1) Federal, State, and Local government agencies and programs, (2) publicly traded businesses, (3) privately traded/owned businesses facing disciplinary action for breaking laws, or dealing in matters with significant public interest, (4) programs receiving public funds.(B) Privately registered wallets are known to only the owner and the Federal, State and Local Governments. Privately registered wallets are recorded on the Blockchain Ledger with their public key. Privately registered wallets include:Property addresses (Blockchain wallets showing property ownership) including buildings, facilities, land, major pieces of equipment, and other items of Government interest for all citizens and privately traded/owned businesses not listed in Part I.1A.One wallet for each citizen for tax-paying purposes. This wallet may be changed with permission from the wallet holder if the wallet has been identified by unauthorized parties. (C) Privately held wallets are known to only the owner. Privately held wallets include all wallets not required to be publicly known or privately registered per Parts I.1A and I.1B.
 
 Article 4- Judicial System.
-Text forthcoming.
+
+Section 1- The Judicial Network
+The Judicial Network will consist of all D.R. Net citizens who shall be classified as reviewers, judges, jurors, or judicical supporters for various subject matters and case types. 
+
+Section 2- Judges
+Any citizen may qualify as a judge in any subject matter and case type by passing the test and other requirements listed in the Law and Policy Network. The number of judges required for any given case shall be proportional to the severity of possible punishment for a guilty verdict.
+
+Section 3- Jurors
+The pool of jurors shall be all citizens possessing basic mental capabilities and the capacity to communicate when provided with reasonable accomodation. They shall be used in all case types where the policies given in The Law and Policy Network require the judgments of a jury of one's peers or a random selection of citizens. The number of jurors required for any given case shall be proportional to the severity of possible punishment for a guilty verdict.
+
+More details forthcoming.
 
 Article 5- Voting.
 
